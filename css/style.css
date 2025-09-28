@@ -82,10 +82,22 @@ section {
 }
 .bx.bxl-git {
     color: #F1502F !important;
+    width: 7rem;
+    height: 7rem;
+    display: inline-block;
+    object-fit: contain;
+    margin: 0 auto;
+    vertical-align: middle;
 }
 
 .bx.bxl-github {
     color: #fff !important;
+    width: 7rem;
+    height: 7rem;
+    display: inline-block;
+    object-fit: contain;
+    margin: 0 auto;
+    vertical-align: middle;
 }
 
 .bx.bxl-linkedin {
